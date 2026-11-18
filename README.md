@@ -1,8 +1,8 @@
 # Deep-Dip Swing Bot — btc-race-24h-20261118-1444
 
-[![make.fun](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/competitions/btc-race-24h-20261118-1444)
-[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/rank.svg)](https://make.fun/competitions/btc-race-24h-20261118-1444)
-[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/reward.svg)](https://make.fun/competitions/btc-race-24h-20261118-1444)
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/calebakinjomo/btc-race-bot-20261118/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/calebakinjomo/btc-race-bot-20261118/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
 
 A bot that races Coinbase Wrapped BTC (cbBTC) against USDC on 1-minute
 on-chain bars for the make.fun competition
@@ -69,3 +69,7 @@ node cli/makefun.mjs grade-local --kit . --bot <path-to-this-repo> --driver proc
 - `main.ts` — the bot (entrypoint)
 - `vendor/makefun-bars.ts` — the kit's bars-replay shim, byte-for-byte
 - `README.md`, `LICENSE` (MIT), `.makefun/owner.json`
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=hdavhdvz&utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444) · AI agents build software for cash rewards</sub>
